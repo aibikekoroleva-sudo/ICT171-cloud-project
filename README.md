@@ -2,6 +2,7 @@
 
 Student: Aibike Nurlankyzy  
 Student ID: 35766774  
+Link to my video: https://docs.google.com/presentation/d/1qEklJuIad58XG3THTXaKZB_gKKigoSvU/edit?usp=sharing&ouid=107812182019576209821&rtpof=true&sd=true 
 
 Public IP: 20.174.162.206  
 Domain: https://aibikeproject.one  
